@@ -1,0 +1,21 @@
+Resumen de la semana
+En esta semana se estudian las estructuras de datos estáticas, especialmente los arreglos (arrays), que tienen un tamaño fijo y no cambian durante la ejecución del programa. 
+
+- Arreglos unidimensionales
+Son estructuras que almacenan datos del mismo tipo en posiciones consecutivas de memoria y se accede a ellos mediante un índice. 
+Ejemplo: lista de notas de estudiantes.
+
+- Operaciones principales
+
+Se Vierons las operaciones básicas:
+* Inserción 🡒 No es directa, se simula moviendo elementos.
+* Actualización 🡒 Cambiar un valor usando su índice.
+* Eliminación 🡒 Se recorre y se desplazan elementos.
+* Recorrido 🡒 Pasar por todos los elementos (con bucles).
+* Copia 🡒 Crear otro arreglo con los mismos datos. 
+Ventajas
+* Acceso rápido por índice (muy eficiente).
+* Menor uso de memoria comparado con otras estructuras.
+* Mejor rendimiento por almacenamiento continuo en memoria. 
+Idea clave
+Los arreglos son ideales cuando sabes cuántos datos tendrás y necesitas **acceso rápido y ordenado**.
