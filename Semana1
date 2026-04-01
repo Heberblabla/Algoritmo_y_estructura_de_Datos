@@ -1,0 +1,23 @@
+
+En esta semana se aprendió qué son las estructuras de datos, que son formas de organizar y almacenar información en una computadora para usarla de manera eficiente. 
+También se explicó que las computadoras guardan datos en bits y bytes, y que las estructuras ayudan a acceder y manipular esos datos más rápido. 
+-Tipos de estructuras de datos
+Se clasifican en:
+Estáticas:
+  No cambian su tamaño durante la ejecución.
+  Ejemplo: arreglos (arrays) y matrices. 
+
+Dinámicas:
+  Pueden cambiar su tamaño en ejecución. Se dividen en:
+  -> Lineales (ordenadas en secuencia):
+  * Listas enlazadas
+  * Pilas (LIFO)
+  * Colas (FIFO) 
+  -> No lineales (estructura más compleja):
+  * Árboles
+  * Grafos
+  * Tablas hash 
+Idea clave
+Elegir la estructura de datos correcta es importante porque afecta la velocidad y eficiencia del programa al buscar, insertar o eliminar datos. 
+En resumen
+Las estructuras de datos son fundamentales en programación porque permiten organizar la información de forma eficiente y resolver problemas de manera más rápida y ordenada.
