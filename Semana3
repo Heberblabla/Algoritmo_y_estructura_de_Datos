@@ -1,0 +1,33 @@
+Operaciones con Arreglos Unidimensionales
+
+En esta sesión se trabajó con arreglos unidimensionales (vectores), que son estructuras de datos estáticas usadas para almacenar elementos del mismo tipo.
+🔹 Objetivo de la sesión
+Aprender a realizar operaciones de:
+Comparación
+Clonación
+Fusión
+garantizando que los datos se mantengan correctos e íntegros.
+Conceptos clave
+1. Arreglos unidimensionales
+Permiten guardar múltiples datos del mismo tipo en una sola estructura.
+Facilitan el acceso rápido a los elementos mediante índices.
+Operaciones principales
+Comparación de arreglos
+Se hace elemento por elemento.
+Dos arreglos son iguales si:
+Tienen el mismo tamaño.
+Sus elementos son idénticos en cada posición.
+Clonación de arreglos
+Consiste en crear una copia exacta de un arreglo.
+Sirve para trabajar con datos sin modificar el original.
+Fusión de arreglos
+Consiste en unir dos o más arreglos en uno solo.
+Generalmente se hace concatenando sus elementos.
+Importancia
+Los arreglos permiten organizar datos eficientemente.
+Facilitan operaciones como acceso, modificación y recorrido.
+Son fundamentales para muchos algoritmos básicos.
+Reflexión final
+Ayudan a manejar colecciones de datos relacionadas.
+Mejoran la rapidez al acceder y modificar información.
+Son ideales cuando trabajas con datos del mismo tipo.
