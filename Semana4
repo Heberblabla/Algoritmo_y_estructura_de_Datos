@@ -1,0 +1,40 @@
+Operaciones con Arreglos Bidimensionales
+En esta sesión se trabajó con matrices (arreglos bidimensionales), que son estructuras de datos organizadas en filas y columnas.
+🔹 Objetivo de la sesión
+Aprender a identificar, implementar y manipular distintos tipos de matrices en Java, como:
+Cuadradas
+Triangulares
+Tridiagonales
+Simétricas y asimétricas
+Conceptos clave
+1. Matrices (arreglos 2D)
+Permiten almacenar datos en forma de tabla.
+Se accede con dos índices: [fila][columna].
+Tipos de matrices
+Matriz cuadrada
+Tiene el mismo número de filas y columnas.
+Ejemplo: 3x3, 4x4.
+Matriz triangular inferior
+Todos los elementos encima de la diagonal son 0.
+Matriz triangular superior
+Todos los elementos debajo de la diagonal son 0.
+Matriz tridiagonal
+Solo tiene valores en:
+Diagonal principal
+Diagonal superior inmediata
+Diagonal inferior inmediata
+Ahorra memoria porque no almacena ceros innecesarios.
+Matriz simétrica
+Cumple:
+matriz[i][j] == matriz[j][i]
+Es igual a su transpuesta.
+Matriz asimétrica
+No cumple la condición anterior.
+Es cualquier matriz “normal”.
+Importancia
+Permiten representar datos más complejos (tablas, mapas, juegos 👀).
+Algunas matrices (como tridiagonales) optimizan memoria.
+Las simétricas simplifican cálculos matemáticos.
+Reflexión final
+Las matrices ayudan a resolver problemas más avanzados que los arreglos simples.
+Elegir el tipo correcto de matriz puede hacer tu programa más eficiente.
