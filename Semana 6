@@ -1,0 +1,52 @@
+Estructuras de Datos Dinámicas
+
+En esta sesión se aprendió sobre estructuras que pueden cambiar de tamaño durante la ejecución del programa, a diferencia de los arreglos estáticos. 
+Objetivo de la sesión
+Aprender a definir e implementar un Tipo Abstracto de Datos (TAD), usando tanto:
+* Especificación informal
+* Especificación formal
+
+Conceptos clave
+Estructuras dinámicas
+* Su tamaño puede crecer o disminuir.
+* Permiten manejar datos de forma más flexible y eficiente.
+Tipo Abstracto de Datos (TAD)
+Un TAD es:
+* Una descripción de datos + operaciones.
+* Se enfoca en qué hace, no en cómo se implementa. 
+Elementos de un TAD
+* Dominio: valores posibles
+* Operaciones: insertar, eliminar, buscar, etc.
+* Especificación formal:
+  * Precondición (antes)
+  * Postcondición (después)
+  * Invariante (lo que siempre se cumple)
+* Implementación: código en Java u otro lenguaje
+Tipos de especificación
+Informal
+* Explicación en lenguaje natural
+* Ejemplo: una pila funciona tipo LIFO (último en entrar, primero en salir)
+Formal
+* Usa reglas más precisas (matemática/lógica)
+* Define condiciones antes y después de cada operación
+#Ejemplo: Pila (Stack)
+
+Operaciones:
+* `push(x)` → insertar
+* `pop()` → eliminar
+* `top()` → ver el último
+* `isEmpty()` → verificar si está vacía 
+
+#Implementación
+
+* Se puede hacer con:
+  * Arreglos
+  * Listas enlazadas
+
+#Importancia
+* Permiten programas más flexibles y escalables
+* Mejoran la organización del código
+* Facilitan la reutilización (modularidad)
+Reflexión final
+* Los TAD ayudan a pensar primero en la lógica antes del código.
+* Elegir una estructura dinámica correcta mejora el rendimiento.
